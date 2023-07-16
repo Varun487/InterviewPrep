@@ -7,8 +7,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 ### Software engineering
 - Data Structures and Algorithms
 	- Course on all important DS&A (C++ and Python)
-        - https://www.coursera.org/learn/algorithms-part1
-        - https://www.coursera.org/learn/algorithms-part2
+        - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
 	- Grokking algorithms book
 	- CTCI book
 	- 3 Leetcode questions everyday
@@ -32,7 +31,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Statistics
 - Linear Algebra - Linear Algebra by Gilbert Strang
 - Machine learning and Statistical models
-- Kaggle competitions
+- Kaggle competitions once a week
 - Optimization methods
 
 
