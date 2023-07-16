@@ -6,7 +6,9 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
-	- Course on all important DS&A
+	- Course on all important DS&A (C++ and Python)
+        - https://www.coursera.org/learn/algorithms-part1
+        - https://www.coursera.org/learn/algorithms-part2
 	- Grokking algorithms book
 	- CTCI book
 	- 3 Leetcode questions everyday
