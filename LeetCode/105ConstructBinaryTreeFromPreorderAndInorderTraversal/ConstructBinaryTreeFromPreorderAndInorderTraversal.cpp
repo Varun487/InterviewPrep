@@ -16,6 +16,7 @@ public:
         return result;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        // Recursive -> Time:O(n^2), Space:O(n+h)
         if (preorder.size() == 0 || inorder.size() == 0) {
             return NULL;
         }
