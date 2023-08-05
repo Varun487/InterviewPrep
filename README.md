@@ -6,11 +6,14 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
+    - Leetcode most commonly asked 150 interview questions ![inprogress]
 	- Course on all important DS&A (C++ and Python)
         - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
 	- Grokking algorithms book
 	- CTCI book
-	- 3 Leetcode questions everyday
+    - Neetcode IO problems
+- SQL ![inprogress]
+    - https://techtfq.com/blog/how-to-learn-sql-for-free-roadmap-to-learning-sql/
 - C++
     - Basics to Advanced (include Multiprocessing / Threading / Locks / Semaphores / concurrency)
     - Theory
@@ -20,26 +23,21 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Python
     - Basics to Advanced
     - Finance specific Python
-- SQL
-- OOP design
+- Design patterns OOP design
 - System design
 - Computer networking
 - OS (Unix/Linux)
 
 ### Data science
-
 - Statistics
-- Linear Algebra - Linear Algebra by Gilbert Strang
-- Machine learning and Statistical models
-- Kaggle competitions once a week
+- Machine learning 
+- Kaggle competitions
 - Optimization methods
 
 
 ### Quantitative finance
 ###### Includes quant research, quant trading, quant analyst and quant dev (special focus on quant dev) jobs
-
-- Fast mental arithmetic
-	- Zetamac practice everyday
+- Fast mental arithmetic -> zetamac
 - Sequences questions
 - Calculus (Basics to Advanced)
 - Permutations and Combinations
@@ -65,3 +63,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - Book heard on the street by timothy falconcrack
     - Implementing derivatives models
     - Statistical analysis of financial data in python
+
+[done]: https://img.shields.io/badge/DONE-brightgreen
+[inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
