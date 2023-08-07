@@ -24,7 +24,7 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         // DFS -> Time:O(n+p), Space:O(p)
         for (int i = 0; i < prerequisites.size(); i++) {
-            if (prereq.find(i) == prereq.end()) {
+            if (prereq.find(prerequisites[i][0]) == prereq.end()) {
                 vector<int> p;
                 prereq[prerequisites[i][0]] = p;
             }
