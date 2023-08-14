@@ -63,7 +63,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - Book heard on the street by timothy falconcrack
     - Implementing derivatives models
     - Statistical analysis of financial data in python
-  
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
