@@ -6,7 +6,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
-    - Leetcode most commonly asked 150 interview questions ![inprogress]
+    - Leetcode most commonly asked 150 interview questions ![done]
 	- Course on all important DS&A (C++ and Python)
         - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
 	- Grokking algorithms book
