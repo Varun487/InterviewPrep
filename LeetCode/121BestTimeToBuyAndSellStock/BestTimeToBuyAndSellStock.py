@@ -1,5 +1,15 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        # Time:O(n), Space:O(1)
+        min_price = prices[0]
+        max_profit = 0
+        for price in prices:
+            if price < min_price:
+                min_price = price
+            else:
+                max_profit = max(max_profit, price-min_price)
+        return max_profit
+
         # Two pointers -> Time: O(n), Space: O(1)
         l, r = 0, 1
         max_profit = 0
