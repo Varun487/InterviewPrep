@@ -1,7 +1,19 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        # Pythonic Solution
-        return len(s.split()[-1])
+        # More elegant solution -> Time:O(n), Space:O(1)
+        ans, prev_space = 0, False
+        for c in s:
+            if c == ' ':
+                prev_space = True
+            elif prev_space:
+                ans = 1
+                prev_space = False
+            else:
+                ans += 1
+        return ans
+
+        # # Pythonic Solution
+        # return len(s.split()[-1])
 
         # # Naive solution -> Time:O(n), Space:O(1)
         # last_word_length = 0
