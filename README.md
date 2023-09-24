@@ -23,7 +23,8 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Python
     - Basics to Advanced
     - Finance specific Python
-- Design patterns OOP design
+- Design patterns 
+- OOP design
 - System design
 - Computer networking
 - OS (Unix/Linux)
