@@ -35,7 +35,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Kaggle competitions
 - Optimization methods
 
-
 ### Quantitative finance
 ###### Includes quant research, quant trading, quant analyst and quant dev (special focus on quant dev) jobs
 - Fast mental arithmetic -> zetamac
