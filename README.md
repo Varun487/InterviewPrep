@@ -31,17 +31,16 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Data science
 - Statistics
+- Calculus (Basics to Advanced)
+- Permutations and Combinations
+- Probability
 - Machine learning 
 - Kaggle competitions
 - Optimization methods
 
 ### Quantitative finance
-###### Includes quant research, quant trading, quant analyst and quant dev (special focus on quant dev) jobs
-- Fast mental arithmetic -> zetamac
+- Fast mental arithmetic -> zetamac ![habit]
 - Sequences questions
-- Calculus (Basics to Advanced)
-- Permutations and Combinations
-- Probability
 - Brain teasers
 - Stochastic Calculus 
     - Stochastic Calculus for Finance I & II (Shreve)
@@ -50,19 +49,25 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Market microstructure
 - Portfolio Theory
 - Computational methods
-- Books
-    - Dynamic hedging by Naseem Taleb
-    - FAQs in quantitative finance (Latest edition) by Paul Wilmott
-    - Advances in active portfolio management by Grinold and Kahn
-    - Technical Analysis is mostly bull shit by Tim Morris
-    - Option trading - An Advanced guide, sinclair
-    - How to make money in stocks -> William J O'Neal
-    - Short Selling -> Amit Kumar
-    - Reminices of a stock operator -> Edwin lefevre
-    - Breaking into wall street training -> Basic package
-    - Book heard on the street by timothy falconcrack
-    - Implementing derivatives models
-    - Statistical analysis of financial data in python
+- Design Patterns and Derivatives pricing
+- Quant hedgefund strategies
+- Advanced derivatives
+- Algo trading strategies
+
+### Books
+- Dynamic hedging by Naseem Taleb
+- FAQs in quantitative finance (Latest edition) by Paul Wilmott
+- Advances in active portfolio management by Grinold and Kahn
+- Technical Analysis is mostly bull shit by Tim Morris
+- Option trading - An Advanced guide, sinclair
+- How to make money in stocks -> William J O'Neal
+- Short Selling -> Amit Kumar
+- Reminices of a stock operator -> Edwin lefevre
+- Breaking into wall street training -> Basic package
+- Book heard on the street by timothy falconcrack
+- Implementing derivatives models
+- Statistical analysis of financial data in python
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
+[habit]: https://img.shields.io/badge/HABIT-blue
