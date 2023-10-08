@@ -6,14 +6,13 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
+    - Data Structures and Algorithms made easy
     - Leetcode most commonly asked 150 interview questions ![done]
-    - Neetcode IO problems ![inprogress]
-    - Course on all important DS&A (C++ and Python)
-        - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
-    - Grokking algorithms book
+    - Neetcode IO 150 problems ![inprogress]
     - CTCI book
-- SQL 
-    - https://techtfq.com/blog/how-to-learn-sql-for-free-roadmap-to-learning-sql/
+    - Elements of programming interviews in Python
+    - Elements of programming interviews in C++
+    - Programming Interviews Exposed
 - C++
     - Basics to Advanced (include Multiprocessing / Threading / Locks / Semaphores / concurrency)
     - Theory
@@ -23,6 +22,12 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Python
     - Basics to Advanced
     - Finance specific Python
+- SQL ![inprogress]
+    - https://www.linkedin.com/learning/paths/master-sql-for-data-science?u=56742337
+        - Course 1 ![inprogress]
+        - Course 2
+        - Course 3
+        - Course 4
 - Design patterns 
 - OOP design
 - System design
