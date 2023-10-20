@@ -58,20 +58,22 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Quant hedgefund strategies
 - Advanced derivatives
 - Algo trading strategies
-
-### Books
-- Dynamic hedging by Naseem Taleb
-- FAQs in quantitative finance (Latest edition) by Paul Wilmott
-- Advances in active portfolio management by Grinold and Kahn
-- Technical Analysis is mostly bull shit by Tim Morris
-- Option trading - An Advanced guide, sinclair
-- How to make money in stocks -> William J O'Neal
-- Short Selling -> Amit Kumar
-- Reminices of a stock operator -> Edwin lefevre
-- Breaking into wall street training -> Basic package
-- Book heard on the street by timothy falconcrack
-- Implementing derivatives models
-- Statistical analysis of financial data in python
+- Books
+    - Red book
+    - Green book
+    - Books in link -> https://www.quantstart.com/articles/Quantitative-Finance-Reading-List/
+    - Dynamic hedging by Naseem Taleb
+    - FAQs in quantitative finance (Latest edition) by Paul Wilmott
+    - Advances in active portfolio management by Grinold and Kahn
+    - Technical Analysis is mostly bull shit by Tim Morris
+    - Option trading - An Advanced guide, sinclair
+    - How to make money in stocks -> William J O'Neal
+    - Short Selling -> Amit Kumar
+    - Reminices of a stock operator -> Edwin lefevre
+    - Breaking into wall street training -> Basic package
+    - Book heard on the street by timothy falconcrack
+    - Implementing derivatives models
+    - Statistical analysis of financial data in python
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
