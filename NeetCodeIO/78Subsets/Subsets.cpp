@@ -11,7 +11,7 @@ public:
         dfs(nums, sub, ind+1);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        // Backtracking -> Time:O(2^n), Space:O(n)
+        // Backtracking -> Time:O(n*2^n), Space:O(n)
         vector<int> subSet;
         dfs(nums, subSet, 0);
         return ans;

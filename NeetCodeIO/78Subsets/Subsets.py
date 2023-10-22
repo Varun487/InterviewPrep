@@ -1,6 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # Backtracking -> Time:O(2^n), Space:O(n)
+        # Backtracking -> Time:O(n*2^n), Space:O(n)
         ans = []
         def dfs(i, sub):
             if i >= len(nums):
