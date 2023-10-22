@@ -6,9 +6,9 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
-    - Data Structures and Algorithms made easy
     - Leetcode most commonly asked 150 interview questions ![done]
     - Neetcode IO 150 problems ![inprogress]
+    - Data Structures and Algorithms made easy
     - CTCI book
     - Elements of programming interviews in Python
     - Elements of programming interviews in C++
@@ -59,10 +59,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Advanced derivatives
 - Algo trading strategies
 - Books
-    - Red book
-    - Green book
     - Books in link -> https://www.quantstart.com/articles/Quantitative-Finance-Reading-List/
-    - Dynamic hedging by Naseem Taleb
     - FAQs in quantitative finance (Latest edition) by Paul Wilmott
     - Advances in active portfolio management by Grinold and Kahn
     - Technical Analysis is mostly bull shit by Tim Morris
@@ -71,7 +68,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - Short Selling -> Amit Kumar
     - Reminices of a stock operator -> Edwin lefevre
     - Breaking into wall street training -> Basic package
-    - Book heard on the street by timothy falconcrack
     - Implementing derivatives models
     - Statistical analysis of financial data in python
 
