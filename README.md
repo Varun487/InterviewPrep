@@ -70,6 +70,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - Breaking into wall street training -> Basic package
     - Implementing derivatives models
     - Statistical analysis of financial data in python
+    - When genius failed
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
