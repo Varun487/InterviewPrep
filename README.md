@@ -35,6 +35,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - OS (Unix/Linux)
 
 ### Data science
+- Excel
 - Statistics
 - Calculus (Basics to Advanced)
 - Permutations and Combinations
