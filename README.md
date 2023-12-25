@@ -6,8 +6,8 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 
 ### Software engineering
 - Data Structures and Algorithms
-    - Leetcode most commonly asked 150 interview questions ![done]
     - Neetcode IO 150 problems ![inprogress]
+    - Leetcode most commonly asked 150 interview questions 
     - Data Structures and Algorithms made easy
     - CTCI book
     - Elements of programming interviews in Python
@@ -22,9 +22,9 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Python
     - Basics to Advanced
     - Finance specific Python
-- SQL ![inprogress]
+- SQL 
     - https://www.linkedin.com/learning/paths/master-sql-for-data-science?u=56742337
-        - Course 1 ![inprogress]
+        - Course 1 
         - Course 2
         - Course 3
         - Course 4
@@ -35,8 +35,14 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - OS (Unix/Linux)
 
 ### Data science
-- Excel
 - Statistics
+    - Foundations
+        - Statistics Foundations 1 ![done]
+        - Statistics Foundations 2 ![inprogress]
+        - Statistics Foundations 3
+        - Statistics Foundations 4
+    - Excel
+    - Python
 - Calculus (Basics to Advanced)
 - Permutations and Combinations
 - Probability
@@ -48,10 +54,10 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Fast mental arithmetic -> zetamac ![habit]
 - Sequences questions
 - Brain teasers
+- Pricing and Hedging derivatives ![inprogress]
+    - Option Volatility and pricing -> Sheldon Nateberg
 - Stochastic Calculus 
     - Stochastic Calculus for Finance I & II (Shreve)
-- Pricing and Hedging derivatives 
-    - Option Volatility and pricing -> Sheldon Nateberg
 - Market microstructure
 - Portfolio Theory
 - Computational methods
