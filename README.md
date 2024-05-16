@@ -2,12 +2,14 @@
 
 Improving my skills in Computer science, mathematics and finance to prepare for quantitative finance and software development interviews.
 
-## Jobs
+## Job skills
 
 ### Software engineering
 - Data Structures and Algorithms
     - Neetcode IO 150 problems ![inprogress]
-    - Leetcode most commonly asked 150 interview questions 
+        - 3 questions a day ![habit]
+        - 0 / 150 ![DONE]
+    - Leetcode most commonly asked 150 interview questions
     - Data Structures and Algorithms made easy
     - CTCI book
     - Elements of programming interviews in Python
@@ -22,27 +24,16 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Python
     - Basics to Advanced
     - Finance specific Python
-- SQL 
-    - https://www.linkedin.com/learning/paths/master-sql-for-data-science?u=56742337
-        - Course 1 
-        - Course 2
-        - Course 3
-        - Course 4
+- SQL ![inprogress]
+    - https://www.youtube.com/watch?v=HXV3zeQKqGY&t=35s&pp=ygUKc3FsIGNvdXJzZQ%3D%3D ![incomplete]
 - Design patterns 
 - OOP design
 - System design
 - Computer networking
 - OS (Unix/Linux)
 
-### Data science
-- Statistics
-    - Foundations
-        - Statistics Foundations 1 ![done]
-        - Statistics Foundations 2 ![inprogress]
-        - Statistics Foundations 3
-        - Statistics Foundations 4
-    - Excel
-    - Python
+## Data science
+- Statistics ![inprogress]
 - Calculus (Basics to Advanced)
 - Permutations and Combinations
 - Probability
@@ -50,12 +41,14 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Kaggle competitions
 - Optimization methods
 
-### Quantitative finance
-- Fast mental arithmetic -> zetamac ![habit]
+## Quantitative finance
+- Fast mental arithmetic
+    - 3 zetamac games a day ![habit]
+- Pricing and Hedging derivatives ![inprogress]
+    - Stevens Canvas content of course ![incomplete]
+    - Option Volatility and pricing -> Sheldon Nateberg
 - Sequences questions
 - Brain teasers
-- Pricing and Hedging derivatives ![inprogress]
-    - Option Volatility and pricing -> Sheldon Nateberg
 - Stochastic Calculus 
     - Stochastic Calculus for Finance I & II (Shreve)
 - Market microstructure
@@ -80,5 +73,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - When genius failed
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
+[incomplete]: https://img.shields.io/badge/INCOMPLETE-red
 [inprogress]: https://img.shields.io/badge/IN-PROGRESS-red
 [habit]: https://img.shields.io/badge/HABIT-blue
