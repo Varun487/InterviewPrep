@@ -32,7 +32,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Computer networking
 - OS (Unix/Linux)
 
-## Data science
+### Data science
 - Statistics ![inprogress]
 - Calculus (Basics to Advanced)
 - Permutations and Combinations
@@ -41,7 +41,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Kaggle competitions
 - Optimization methods
 
-## Quantitative finance
+### Quantitative finance
 - Fast mental arithmetic
     - 3 zetamac games a day ![habit]
 - Pricing and Hedging derivatives ![inprogress]
@@ -71,6 +71,12 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - Implementing derivatives models
     - Statistical analysis of financial data in python
     - When genius failed
+
+### Mock interviews 
+- Technical
+    - Practice with friend daily ![habit]
+- Behavioural
+    - Practice with friend daily ![habit]
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [incomplete]: https://img.shields.io/badge/INCOMPLETE-red
