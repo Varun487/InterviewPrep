@@ -8,7 +8,7 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Data Structures and Algorithms
     - Neetcode IO 150 problems ![inprogress]
         - 3 questions a day ![habit]
-        - 0 / 150 ![DONE]
+        - 3 / 150 ![DONE]
     - Leetcode most commonly asked 150 interview questions
     - Data Structures and Algorithms made easy
     - CTCI book
