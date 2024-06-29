@@ -44,6 +44,8 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 ### Quantitative finance
 - Fast mental arithmetic
     - 3 zetamac games a day ![habit]
+- Market microstructure ![inprogress]
+    - Stevens Canvas content of course ![incomplete]
 - Pricing and Hedging derivatives ![inprogress]
     - Stevens Canvas content of course ![incomplete]
     - Option Volatility and pricing -> Sheldon Nateberg
@@ -51,7 +53,6 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
 - Brain teasers
 - Stochastic Calculus 
     - Stochastic Calculus for Finance I & II (Shreve)
-- Market microstructure
 - Portfolio Theory
 - Computational methods
 - Design Patterns and Derivatives pricing
