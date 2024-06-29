@@ -46,8 +46,8 @@ Improving my skills in Computer science, mathematics and finance to prepare for 
     - 3 zetamac games a day ![habit]
 - Market microstructure ![inprogress]
     - Stevens Canvas content of course ![incomplete]
-- Pricing and Hedging derivatives ![inprogress]
-    - Stevens Canvas content of course ![incomplete]
+- Pricing and Hedging derivatives 
+    - Stevens Canvas content of course 
     - Option Volatility and pricing -> Sheldon Nateberg
 - Sequences questions
 - Brain teasers
